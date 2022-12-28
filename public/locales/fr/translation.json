@@ -1,0 +1,799 @@
+{
+  "Dashboard": "Tableau de bord",
+  "Productions": "Productions",
+  "Booking": "Réservation",
+  "Profile": "Profil",
+  "Settings": "Paramètre",
+  "Requests": "Demandes",
+  "Employers": "Employeurs",
+  "Employees": "Des employés",
+  "Unions": "Les syndicats",
+  "Balances": "Soldes",
+  "Calendar": "Calendrier",
+  "Log Out": "Se déconnecter",
+  "Trusted": "De confiance",
+  "Caregivers": "Aidants",
+  "Confirmation": {
+    "Title": "Bienvenue sur Reel Kids !",
+    "Subtitle": "Votre place est sécurisée. Veuillez confirmer que nous avons la bonne production répertoriée.",
+    "Next": "Prochain",
+    "Wrong": "Mauvaise fabrication"
+  },
+  "Landing": {
+    "Trusted": "De confiance",
+    "Care": "attention quand ",
+    "Need": "vous avez en  ",
+    "Most": "besoin",
+    "Reelkids": "Reelkids est une application qui fournit aux soignants",
+    "Reelkids2": "avec un lieu de travail pour les familles dans le film",
+    "Reelkids3": "l'industrie.Certains emplois sont sur le plateau et d'autres sont",
+    "Reelkids4": "dans la maison familiale.",
+    "Paragraph": "Cliquez ci-dessous pour commencer votre soignant passionnant",
+    "ParagraphBreak": "carrière aujourd'hui !",
+    "Sign up": "S'inscrire",
+    "Login": "Connexion"
+  },
+  "Forgot_password": {
+    "Forgot_password_title": "Mot de passe oublié",
+    "Submit": "Soumettre"
+  },
+  "Reset_password": {
+    "Password_reset": "Votre mot de passe a été réinitialisé avec succès",
+    "Okay": "D'ACCORD",
+    "Please": "PleaS'il vous plaîtse",
+    "Click_here": "Cliquez ici ",
+    "To_continue": "ouvrir une session"
+  },
+  "Login": {
+    "Title": "Connectez-vous à votre compte",
+    "PhoneNumber": "Numéro de téléphone",
+    "Password": "Mot de passe",
+    "Remember": "Souviens-toi de moi",
+    "Forgot": "Mot de passe oublié",
+    "Sign": "S'identifier",
+    "Account": "Vous n'avez pas de compte ?",
+    "SignUp": "Inscrivez-vous ici"
+  },
+  "SignUp": {
+    "Title": "S'inscrire",
+    "FullName": "Nom et prénom",
+    "Email": "E-mail",
+    "Phone": "Numéro de téléphone",
+    "Password": "Mot de passe",
+    "Confirm": "Confirmez le mot de passe",
+    "Already": "Déjà membre?",
+    "SignIn": "Se connecter ici",
+    "Validations": {
+      "FullName": "Veuillez entrer le nom complet.",
+      "Email": "Veuillez saisir une adresse e-mail valide.",
+      "Phone": "S'il vous plait, entrez un nombre valide.",
+      "Password": "Minimum 8 caractères, 1 majuscule, 1 caractère spécial"
+    },
+    "Update": "Mise à jour",
+    "ResetPassword": "réinitialiser le mot de passe"
+  },
+  "ForgotPassword":{
+    "Forgot_password_title": "Mot de passe oublié",
+    "Submit": "Soumettre"
+  },
+  "Expired": {
+    "Message1": "Le lien pour mot de passe oublié a expiré.",
+    "Message2": "Cliquez ici",
+    "Message3": "pour renvoyer le lien."
+  },
+  "ResetSchema": {
+    "Required": "Obligatoire",
+    "Min": "Le mot de passe est trop court - doit comporter au moins 8 caractères.",
+    "Matches": "Minimum 8 caractères, 1 majuscule, 1 caractère spécial",
+    "PasswordMatch": "Le mot de passe et le mot de passe de confirmation doivent correspondre"
+  },
+  "UpdateSchema": {
+    "Required": "Obligatoire",
+    "Email": "Veuillez saisir une adresse e-mail valide.",
+    "Phone": "S'il vous plaît entrer un numéro de téléphone valide."
+  },
+  "Toast": {
+    "Update": "Détails mis à jour avec succès"
+  },
+  "Admin": {
+    "ManageEmployeer": {
+      "Title": "Gérer la production",
+      "Search": "Chercher...",
+      "Dropdown": {
+        "Title": "TRIER PAR :STUDIO",
+        "Experience": "PRÉNOM",
+        "Union": "PRODUCTION",
+        "Employee": "EMPLOYÉ"
+      },
+      "Selected": "Choisi",
+      "Modal": {
+        "Title": "Etes-vous sûr que vous voulez supprimer",
+        "Heading": {
+          "start": "Vous êtes sur le point de supprimer " ,
+          "end":"employeurs de la liste"
+          
+        },
+        "Cancel": "Annuler",
+        "Confirm": "Confirmer"
+      },
+      "ModalDelAfter": {
+        "Title": "Employés supprimés",
+        "Done": "Fait"
+      },
+      "ModalGenerateInvite": {
+        "Title": "Envoyer une invitation à l'employé",
+        "Heading": "Voici votre lien d'inscription généré une seule fois",
+        "Input1Heading":"Lien d'invitation :",
+        "Input1": "invite.link_newemployer/production",
+        "Input2heading": "Envoyer l'invitation à:",
+        "Input2": "email@emailaddress.com",
+        "Input3heading": "Studio:",
+        "Input3": "Saisissez le nom de l'atelier",
+        "Input4heading": "Production:",
+        "Input4": "Entrez le nom de la production",
+        "Cancel": "Annuler",
+        "SendInvite": "Envoyer une invitation",
+        "Generate":"Générer"
+      },
+      "ModalGenerateInviteAfter": {
+        "Title": "Invitation envoyé",
+        "Done": "Fait"
+      },
+      "Table": {
+        "LastName": "Nom de famille",
+        "FirstName": "Prénom",
+        "Production": "Production",
+        "Studio": "Studio"
+      },
+      "UpdateEmployeer": "Mettre à jour l'employé",
+      "RequestsPending": "DEMANDES EN COURS",
+      "GenerateInvite": "GÉNÉRER UNE INVITATION"
+    },
+    "Dashboard": {
+      "Welcome": "Bienvenu",
+      "Productions": "Productions",
+      "ProductionContacts": "Contacts Productions",
+      "ManageProductions": "Gérer les productions",
+      "Dropdown": {
+        "Sort": "TRIER PAR:",
+        "Studio": "STUDIO",
+        "Contacts": "CONTACTS",
+        "Production": "PRODUCTION",
+        "Employer": "EMPLOYEUR",
+        "Last_name": "Nom de famille",
+        "First_name": "Prénom"
+      }
+    },
+    "UpdateEmployeer": {
+      "Title": "Mettre à jour l'employé",
+      "EditDetail": "Modifier le détail de l'employé existant",
+      "Details": {
+        "Title": "Détails",
+        "Production": "Nom du directeur de production",
+        "LastName": "Nom de famille",
+        "PhoneNumber": "Numéro de téléphone",
+        "CurrentProduction": "La production actuelle",
+        "CurrentStudio":"Atelier actuel",
+        "Button": "Confirmer",
+        "Validations": {
+          "Name": "Veuillez entrer le nom",
+          "LastName": "Veuillez entrer le nom de famille",
+          "Email": "Veuillez saisir une adresse e-mail valide.",
+          "Phone": "Veuillez entrer le numéro de téléphone",
+          "Union": "Veuillez entrer le nom du syndicat"
+        }
+      },
+      "Additional": {
+        "Title": "Détails supplémentaires",
+        "Billing": "Nom du contact de facturation",
+        "LastName": "Nom de famille",
+        "PhoneNumber": "Numéro de téléphone",
+        "BillingAddress": "Adresse de facturation",
+        "Operations": "Coordonnées des opérations",
+        "Accounting": "Coordonnées de la comptabilité",
+        "Affiliated": "Syndicat(s) affilié(s)",
+        "AffiliatedPayload": "Société affiliée de charge utile",
+        "Button": "Confirmer",
+        "Validations": {
+          "Name": "Veuillez entrer le nom",
+          "LastName": "Veuillez entrer le nom de famille",
+          "Email": "Veuillez saisir une adresse e-mail valide.",
+          "Phone": "S'il vous plait, entrez un nombre valide.",
+          "Billing": "Veuillez entrer l'adresse de facturation",
+          "Operations": "Veuillez entrer le contact des opérations",
+          "Accounting": "Veuillez entrer le contact comptable",
+          "Affiliated": "Veuillez saisir le(s) syndicat(s) affilié(s)",
+          "AffiliatedPayload": "Veuillez saisir l'entreprise"
+        }
+      }
+    },
+    "ManageCaregiver": {
+      "Manage_caregivers": "Gérer le soignants",
+      "Archived_caregivers": "Aidants archivés",
+      "Archive": "Archive",
+      "cargiver_list": "LISTE DES AIDANTS",
+      "Dropdown": {
+        "Studio": "TRIER PAR:STUDIO",
+        "Experience": "VIVRE",
+        "Union": "ÉVALUER",
+        "Employee": "ZONE DE SERVICE"
+      },
+      "Selected": "CHOISI",
+      "Table": {
+        "LastName": "Nom de famille",
+        "FirstName": "Prénom",
+        "Experience": "Vivre",
+        "Rate": "taux/h",
+        "Service": "Zone de service",
+        "Update": "Mettre à jour le soignant"
+      },
+      "Button": "ARCHIVE"
+    },
+    "UpdateCaregiver": {
+      "Title": "Mettre à jour le soignant",
+      "Edit": "Modifier le détail de l'employé existant",
+      "Detail": {
+        "Title": "Détails",
+        "FirstName": "Prénom",
+        "LastName": "Nom de famille",
+        "PhoneNumber": "Numéro de téléphone",
+        "Address": "Adresse",
+        "City": "Ville",
+        "Postal": "code postal ",
+        "Primary": "Langue principale"
+      },
+      "Qualifications": {
+        "Title": "Qualifications",
+        "FirstAid": "Diplôme de secourisme",
+        "Police": "Ont-ils eu une vérification de casier judiciaire/policier au cours des trois dernières années",
+        "Style": "Style de soins",
+        "Course": "Cours suivi",
+        "Days": "Jours sur le plateau (expérience)",
+        "DOD": "Tu conduis?",
+        "Rate": "Évaluer"
+      },
+      "Button": "Confirmer"
+    },
+    "ProductionFocused": {
+      "Overview": "Aperçu",
+      "Employees": "Employés en production",
+      "EmployeeHeading": "Les employés sont actuellement masqués. Cliquez sur afficher pour afficher",
+      "EmployeeHeadingBreak": "qui participe à la production",
+      "Contributions": "Contributions",
+      "Show": "Spectacle",
+      "Hide": "Cacher",
+      "Employeer": "Employeur",
+      "ProductManager": "Directeur de production",
+      "Role": "Rôle"
+    },
+    "EmployerRequests": {
+      "Title": "Demandes des employeurs",
+      "Search": "Chercher...",
+      "Dropdown": {
+        "Title": "TRIER PAR :STUDIO",
+        "Experience": "VIVRE",
+        "Union": "SYNDICAT",
+        "Employee": "EMPLOYÉ"
+      },
+      "Selected": "Choisi",
+      "Table": {
+        "LastName": "Nom de famille",
+        "FirstName": "Prénom",
+        "Production": "Production",
+        "Studio": "Studio"
+      },
+      "Cancel": "Annuler",
+      "Resend": "Renvoyer"
+    },
+    "Archived":{
+      "Employers":"Employeurs archivés",
+      "Employer_list":"Liste des employeurs"
+    }
+  },
+  "Employee": {
+    "Dashboard": {
+      "Welcome": "Bienvenu",
+      "Current_productions": "La production actuelle",
+      "Month_at_a_glance": "Le mois en un coup d'œil",
+      "Current_funding": "Financement actuel",
+      "Key_contacts": "Contacts clés",
+      "Next_booking": "Prochaine réservation",
+      "Studio": "Studio",
+      "Overview": "Aperçu",
+      "Style": "Style de soins",
+      "Contact": "Contactez-nous",
+      "Recent_caregiver": "Aidant le plus récent"
+    },
+    "Focused-productions": {
+      "Studio": "STUDIO",
+      "Overview": "Aperçu",
+      "Style": "Style de soins",
+      "Contact": "Contactez-nous",
+      "Unions": "Les syndicats"
+    },
+    "Productions": {
+      "Select_production": "Sélectionnez Production",
+      "Success": "Succès",
+      "Success_desc": "Un spécialiste de la garde d'enfants assurera le suivi de vos besoins en matière de garde. Quel est le meilleur moyen pour nous de vous joindre ?",
+      "Message": "Message texte",
+      "Email": "E-mail",
+      "Done": "Fait",
+      "Search_production": "Recherche Production",
+      "Sort": "Trier par:"
+    },
+    "Requests": {
+      "Request_childcare": "Demande de garde d'enfants",
+      "Info": "Remplissez les informations suivantes pour demander la garde d'enfants. Une fois terminé, cliquez sur Soumettre et vous êtes prêt à partir !",
+      "Details": "Détails",
+      "Repetition": "Répéter la demande",
+      "Submit": "Envoyer la demande",
+      "StartTime": "Heure de début prévue",
+      "EndTime": "Heure de fin prévue",
+      "Address": "Adresse",
+      "Working": "Où travailles-tu?",
+      "Care": "Style de soins",
+      "Children": "Noms des enfants",
+      "Show": "Série de spectacles",
+      "Schedule_all": "Tous les jours programmés"
+    },
+    "Bookings": {
+      "Upcoming": "Réservations à venir",
+      "Pending": "Réservations en attente",
+      "Cancelled": "Réservations annulées",
+      "Status": "Statut",
+      "Date": "Dates et lieu",
+      "Caretaker": "Le concierge",
+      "Details": "Détails",
+      "Action": "Action",
+      "Manage": "Faire en sorte",
+      "Accepted": "Accepté",
+      "Pending_req": "En attente",
+      "Cancelled_req": "Annulé",
+      "Search": "Recherche Gardien..."
+    },
+    "Setting": {
+      "Email": "E-mail",
+      "Pprofile": "Profil public",
+      "Number": "Numéro de téléphone"
+    },
+    "Profile": {
+      "Personal": "Personnel",
+      "Children": "Enfants",
+      "Fname": "Prénom",
+      "Lname": "Nom de famille",
+      "Email": "E-mail",
+      "Number": "Numéro de téléphone",
+      "Biography": "Biographie",
+      "Address": "Adresse",
+      "Postal": "Postale",
+      "Province": "Province",
+      "Country": "Pays",
+      "Password": "Mot de passe",
+      "Age": "Âge"
+    }
+  },
+  "Caregiver": {
+    "BookingRequests": {
+      "Booking_requests": "Demandes de réservation",
+      "PendingRequests": {
+        "Title": "Requêtes en cours",
+        "PopUpTitle": "Accepter la requête",
+        "PopUpHeading": "Vous êtes sur le point d'accepter la demande de Mike Jones pour le 23 mars 2022",
+        "PopUpHeading2": "au 227 Rosewood Lane, Vancouver, C.-B. V6M2K3",
+        "PopUpHeading3": " Votre quart de travail commencera de 6h00 à 15h00",
+        "Cancel": "Annuler",
+        "Confirm": "Confirmer",
+        "PopUpAfter": "Requête acceptée",
+        "Done": "Fait",
+        "PopUpDeclineTitle": "Refuser la demande",
+        "PopUpDeclineHeading": " Vous êtes sur le point d'accepter la demande de Mike Jones du 23 mars 2022 au 227 Rosewood Lane,Vancouver,BC V6M 2K3",
+        "PopUpDeclineCancel": "Annuler",
+        "PopUpDeclineConfirm": "Confirmer",
+        "PopUpDeclineAfterTitle": "Demande refusée",
+        "Decline": "Déclin",
+        "Accept": "Accepter",
+        "Client_name": "Nom du client",
+        "Date_&_location": "Date et lieu",
+        "Details": "Détails",
+        "Actions": "Actions"
+      },
+      "AcceptedBookings": {
+        "Title": "Réservations acceptées",
+        "Client": "Nom du client",
+        "Dates": "Dates et lieu",
+        "Detail": "Détails",
+        "Action": "Action",
+        "PopUpTitle": "Demande d'annulation?",
+        "PopUpHeading": "Vous êtes sur le point d'annuler la demande de Mike Jones du 23 mars 2022 au 227 Rosewood Lane,Vancouver,BC V6M 2K3",
+        "PopUpCancel": "Annuler",
+        "PopUpConfirm": "Confirmer",
+        "PopUpAfterTitle": "Réservation annulée",
+        "PopUpAfterButton": "Fait"
+      },
+      "DeclinedBookings": "Réservations refusées"
+    },
+    "Availability_calender": {
+      "Welcome": "Bienvenu",
+      "Availability": "Voici vos disponibilités pour les deux prochains mois",
+      "Start_date": "Date de début",
+      "End_date": "Date de fin",
+      "Edit_availability": "Modifier la disponibilité"
+    },
+    "Profile": {
+      "Title": "Profil",
+      "Personal": {
+        "Title": "Personnel",
+        "LastName": "Nom de famille",
+        "FirstName": "Prénom",
+        "PhoneNumber": "Numéro de téléphone",
+        "Biography": "Biographie",
+        "Address": "Adresse",
+        "Postal": "code postal",
+        "Province": "Province",
+        "Country": "Pays",
+        "Password": "Mot de passe",
+        "ProfilePicture": "Image de profil",
+        "ChangePhoto": "Changer la photo de profil",
+        "ChangePassword": "Changer le mot de passe"
+      },
+      "Rates": {
+        "Title": "Les taux",
+        "FirstAid": "Diplôme de secourisme",
+        "Police": "Ont-ils eu une vérification de casier judiciaire/policier au cours des trois dernières années",
+        "Style": "Style de soins",
+        "Course": "Cours suivi",
+        "Days": "Jours sur le plateau (expérience)",
+        "DOD": "Tu conduis?",
+        "Rate": "Évaluer",
+        "Caregiver": "Expérience de soignant",
+        "Additional": "Informations Complémentaires"
+      },
+      "Button": "Éditer",
+      "ButtonConfirm": "Confirmer"
+    },
+    "Dashboard": {
+      "Welcome": "Bienvenu",
+      "Earning": "Vos gains",
+      "Availability": "Votre disponibilité",
+      "Subtitle": "Confirmez votre disponibilité pour mettre en avant votre profil dans les résultats de recherche.",
+      "Upcoming": "Changements à venir",
+      "Balance": "Solde",
+      "Income": "Revenu",
+      "Recent_activity": "Activité récente",
+      "Details": "Détails"
+    },
+    "Calendar": {
+      "CalendarPopUp": {
+        "Title": "Modifier votre disponibilité",
+        "Date": "Date",
+        "StartTime": "Heure de début",
+        "EndTime": "Heure de fin",
+        "Service": "Zone de service",
+        "Repeat": "Disponibilité répétée",
+        "Sunday": "Dimanche",
+        "Monday": "Lundi",
+        "Tuesday": "Mardi",
+        "Wednesday": "Mercredi",
+        "Thursday": "Jeudi",
+        "Friday": "Vendredi",
+        "Saturday": "Samedi",
+        "Confirm": "Confirmer"
+      }
+    }
+  },
+  "Employer": {
+    "Dashboard": {
+      "Current_production": "La production actuelle",
+      "Production": "Production",
+      "Employee": "Employé",
+      "Role": "Rôle",
+      "Film_studio": "Studio de cinéma de Vancouver",
+      "Hide": "Cacher",
+      "Show": "Afficher",
+      "Funding": "Financement",
+      "Mark_complete": "Marquer comme terminé",
+      "Manage": "Faire en sorte",
+      "Switch": "Changer",
+      "Employees": "Des employés",
+      "Union": "syndicat",
+      "Request_report": "Demander un rapport",
+      "Childcare_coordinator": "Coordonnatrice de la garde d'enfants",
+      "Main_office": "Bureau principal",
+      "Funds_hidden": "Le financement est actuellement caché par votre employeur. Veuillez demander un rapport à l'administrateur pour l'accès",
+      "Employees_hidden": "Les employés sont actuellement masqués. Cliquez sur Afficher pour afficher qui est impliqué dans la production",
+      "Next_booking": "Prochaine réservation",
+      "Switch_production_modal": {
+        "Switch_production": "Commutateur de production",
+        "Select_production": "Sélectionnez Production"
+      },
+      "Mark_production_complete_modal": {
+        "Mark_complete": "Voulez-vous marquer cette production comme terminée ?"
+      },
+      "Complete_production_modal": {
+        "Complete_production": "Cette production est maintenant terminée",
+        "Send_report": "Envoyer un rapport"
+      }
+    },
+    "Success_confirmation": {
+      "Success": "Succès",
+      "Request_submitted": "Votre requête à bien été envoyée",
+      "Request_notify": "Nous vous informerons une fois qu'il aura été accepté",
+      "Done": "Fait"
+    },
+    "Add_employee": {
+      "Production": "Production",
+      "Family_list": "Liste de famille",
+      "Family_account": "Compte Famille",
+      "Employee_information": "Ajouter les informations des employés associés à la production.",
+      "profile_photo": "Télécharger une photo de profil",
+      "First_name": "Prénom",
+      "Last_name": "Nom de famille",
+      "Email": "E-mail",
+      "Phone": "Numéro de téléphone",
+      "Current_production": "La production actuelle",
+      "Studio": "Studio",
+      "Role": "Rôle",
+      "Create_family_account": "Créer un compte familial",
+      "Create_individual_account": "Créer un compte individuel",
+      "Delete": "Effacer",
+      "Add": "Ajouter",
+      "Parent": "Parent",
+      "Delete_modal": {
+        "Confirmation": "Etes-vous sûr que vous voulez supprimer?",
+        "Delete_user": "Vous êtes sur le point de supprimer",
+        "Delete_list": "de la liste",
+        "Cancel": "Annuler",
+        "Confirm": "Confirmer"
+      }
+    },
+    "Funding": {
+      "Balances": "Soldes",
+      "Overview_title": "Aperçu",
+      "Childcare_breakdown_title": "Répartition de la garde d'enfants",
+      "Add_funds_title": "Ajouter des fonds",
+      "Overview": {
+        "Hides_funding": "Cache le financement des employés",
+        "Current_funding": "Financement actuel",
+        "Funding_visibility": "Visibilité du financement : illustré",
+        "Hide": "cacher",
+        "Spent": "Dépensé",
+        "Remaining": "Restant",
+        "Employee_usage": "L'employé peut utiliser",
+        "Childcare_contribution": "Contribution à la garde d'enfants",
+        "Union": "syndicat",
+        "Employer": "Employeur",
+        "History": "Histoire",
+        "Name": "Nom",
+        "Position": "Position",
+        "Date": "Date",
+        "Amount": "Montant"
+      },
+      "Childcare_breakdown": {
+        "Client_name": "Nom du client",
+        "Date_&_location": "Date et lieu",
+        "Details": "Détails",
+        "Actions": "Actions",
+        "Total": "Total",
+        "Remaining": "Restant"
+      },
+      "Add_funds": {
+        "Add_fund": "Ajouter des fonds",
+        "Funds_production": "Remplissez les champs suivants pour ajouter des fonds à une production de votre choix.",
+        "Funds_thankyou": "Merci pour vos contributions",
+        "Confirm_contribution": "Veuillez confirmer votre contribution en cochant la case",
+        "Optout": "Si vous souhaitez vous retirer de la contribution, cochez cette case et cliquez sur confirmer",
+        "Confirm": "Confirmer"
+      }
+    },
+    "Update_union": {
+      "Update_union": "Mettre à jour le syndicat",
+      "Description": "Modifiez les détails d'une union existante.",
+      "Details": "Détails",
+      "First_name": "Prénom du contact principal",
+      "Last_name": "nom de famille",
+      "Union_name": "Nom du syndicat",
+      "Email": "e-mail",
+      "Phone_number": "Numéro de téléphone",
+      "Current_Production": "La production actuelle",
+      "Confirm": "Confirmer"
+    },
+    "Calender_listing": {
+      "October": "Octobre",
+      "Today": "Aujourd'hui",
+      "Crew_schedule": "Horaire de l'équipage",
+      "Tuesday": "Mardi",
+      "Event": "Événement",
+      "Event_title": "Titre de l'événement",
+      "Guests": "Invités",
+      "Edit": "Éditer",
+      "Delete": "Effacer"
+    },
+    "Crew_schedule": {
+      "Create": "Créer un horaire d'équipage",
+      "Details": "Entrez les détails de cet événement à venir",
+      "Event_title": "Titre de l'événement",
+      "Event_date": "Date de l'événement",
+      "Event_time": "Heure de l'événement",
+      "Add_event": "Ajouter un évènement",
+      "Participants": "Intervenants"
+    },
+    "Employer_profile": {
+      "Profile": "Profil",
+      "Personal_info_title": "Informations personnelles",
+      "Company_info_title": "Compagnie Informations",
+      "Personal_info": {
+        "First_name": "Prénom",
+        "Last_name": "Nom de famille",
+        "Email": "E-mail",
+        "Phone": "Numéro de téléphone",
+        "Address": "Adresse",
+        "Postal_code": "code postal",
+        "Province": "Province",
+        "Country": "Pays",
+        "Password": "Mot de passe",
+        "Profile_picture": "Image de profil",
+        "Profile_picture_change": "Changer la photo de profil",
+        "Password_change": "Changer le mot de passe"
+      },
+      "Company_info": {
+        "Childcare_coordinator": "Coordonnatrice de la garde d'enfants",
+        "Coordinator_phone": "Numéro de téléphone du coordinateur",
+        "Production": "Nom de fabrication",
+        "Email": "E-mail",
+        "Office_phone": "Numéro de téléphone du bureau",
+        "Office_address": "Adresse de bureau",
+        "Biography": "Biographie",
+        "Social_media": "Des médias sociaux"
+      }
+    },
+    "Employer_settings": {
+      "Settings": "Réglages",
+      "Public_profile": "Profil public",
+      "Email": "E-mail",
+      "Phone": "Numéro de téléphone"
+    },
+    "Manage_union": {
+      "Generate_link_modal": {
+        "Invite_union": "Envoyer une invitation à Union",
+        "Invite_employee": "Envoyer une invitation à l'employé",
+        "Otp": "Voici votre lien d'inscription généré une seule fois",
+        "Production": "Production",
+        "Union_name": "Nom du syndicat",
+        "Send_invite": "Envoyer l'invitation à",
+        "Close": "proche",
+        "Send_invite_footer": "Envoyer une invitation"
+      }
+    },
+    "Manage_employees": {
+      "Manage_employee": "Gérer les employés",
+      "First_name": "Prénom",
+      "Last_name": "Nom de famille",
+      "Production": "Production",
+      "Studio": "Studio",
+      "Edit": "Éditer",
+      "Generate_invite": "Générer une invitation",
+      "Requests_pending": "Demandes en attente d'approbation",
+      "Selected": "Choisi",
+      "Search": "Chercher...",
+      "Archive": "Archive"
+    },
+    "Employee_archive": {
+      "Manage_employee": "Employés archivés",
+      "First_name": "Prénom",
+      "Last_name": "Nom de famille",
+      "Production": "Production",
+      "Studio": "Studio",
+      "Restore": "Restaurer",
+      "Generate_invite": "Générer une invitation",
+      "Requests_pending": "Demandes en attente d'approbation",
+      "Selected": "Choisi",
+      "Search": "Chercher...",
+      "Employee_List": "Liste des employés"
+    },
+    "Manage_unions": {
+      "Manage_union": "Gérer le syndicat",
+      "Union_name": "Nom du syndicat",
+      "Production": "Production",
+      "Studio": "Studio",
+      "Edit": "Éditer",
+      "Search": "Chercher...",
+      "Selected": "Choisi",
+      "Archive": "Archive",
+      "Generate_invite": "Générer une invitation",
+      "Requests_pending": "Demandes en attente"
+    },
+    "Unions-archive": {
+      "Manage_union": "Syndicat archivé",
+      "Union_name": "Nom du syndicat",
+      "Production": "Production",
+      "Studio": "Studio",
+      "Restore": "Restaurer",
+      "Search": "Chercher...",
+      "Union_List": "Liste syndicale",
+      "Generate_invite": "Générer une invitation",
+      "Requests_pending": "Demandes en attente"
+    },
+    "Union_requests_approval": {
+      "Union_request": "Requêtes syndicales",
+      "Union_name": "Nom du syndicat",
+      "Search": "Chercher...",
+      "Production": "Production",
+      "Studio": "Studio",
+      "Contact": "Contact",
+      "Cancel": "Annuler",
+      "Resend": "Renvoyer"
+    },
+    "Employee_requests_approval": {
+      "Employee_request": "Demande de l'employé",
+      "Search": "Chercher...",
+      "Last_name": "Nom de famille",
+      "First_name": "Prénom",
+      "Production": "Production",
+      "Studio": "Studio",
+      "Cancel": "Annuler",
+      "Resend": "Renvoyer",
+      "Cancel_confirmation": "es-tu sûre de vouloir annuler",
+      "Resend_confirmation": "Êtes-vous sûr de vouloir renvoyer",
+      "Restore_confirmation": "Êtes-vous sûr de vouloir restaurer"
+    }
+  },
+  "Union": {
+    "Dashboard": {
+      "Current_production": "La production actuelle",
+      "Switch": "Changer",
+      "Current_funding": "Financement actuel",
+      "Hide": "Cacher",
+      "Show": "Afficher",
+      "Welcome": "Bienvenu",
+      "Spent": "Dépensé",
+      "Remaining": "Restant",
+      "Key_contacts": "Contacts clés",
+      "Emp_in_prod": "Employé en production"
+    },
+    "Production": {
+      "Studio": "Studio"
+    },
+    "Production_detail": {
+      "Emp_in_prod": "Employé en production",
+      "Overview": "Aperçu",
+      "Production": "Production",
+      "Contact": "Contact",
+      "Unions": "Les syndicats",
+      "Style_of_Care": "Style de soins",
+      "Show": "Afficher",
+      "Studio": "Studio",
+      "Hide": "Cacher"
+    },
+    "Balances": {
+      "Childcare": "Garde d'enfantsPanne",
+      "Funds": "Fonds utilisés"
+    }
+  },
+  "Validation": {
+    "Login_validation": {
+      "phone_number": "Veuillez entrer votre numéro de téléphone",
+      "password": "s'il vous plait entrez votre mot de passe",
+      "success": "L'utilisateur s'est connecté avec succès",
+      "fail": "les informations d'identification invalides"
+    },
+    "ResetValidation": {
+      "Regex": "Doit contenir 8 caractères, une majuscule, un caractère spécial",
+      "Confirm": "Le mot de passe et la confirmation du mot de passe doivent correspondre"
+    },
+    "InviteModal": {
+      "Required": "Obligatoire",
+      "Invalid_email": "Email invalide"
+    }
+  },
+  "Not_Found": {
+    "Not_Found_code": "404",
+    "Not_Found_description": "Pas trouvé"
+  },
+  "Disconnect": {
+    "disconnect": "Connexion Internet perdue"
+  },
+  "InviteLinkExpired":{
+    "Title":"Lien d'invitation",
+    "Para":"Le lien vers l'invitation a expiré. Veuillez contacter votre administrateur pour renvoyer le lien."
+  }
+}

@@ -1,0 +1,77 @@
+@media ( max-width:1250px ) { 
+    .signup_screen .form-group-1.col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media ( max-width:1199px ) {
+    .auth_layout .left_box{width: 480px;flex: 0 0 480px;}
+    .auth_layout .right_box{width: calc(100% - 480px);flex-basis: calc(100% - 480px);padding: 100px 60px;}
+}
+
+@media ( max-width:991px ) {
+    .topmenu .navbar-toggler{background-color: #FFF;}
+    .topmenu #navbarScroll {
+        position: absolute;
+        top: 123px;
+        right: 0;
+        left: 0;
+        z-index: 9;
+        background-color: rgba(0,0,0,0.8); 
+        padding-top: 40px;
+        padding-bottom: 40px;
+        min-height: 280px;
+        box-shadow: 0 5px 6px rgba(255,255,255,0.4);
+    }
+    .auth_layout{display: inline-block;width: 100%;}
+    .auth_layout .left_box {
+        width: 100%;
+        flex: 0 0 100%;
+        min-height: 70vh;
+    } 
+    .auth_layout .right_box {
+        width: 100%;
+        flex-basis: 100%;
+        padding: 100px 60px;
+    } 
+    .auth_layout .right_box{padding: 50px;}
+    .auth_form {
+        max-width: 100%;
+    } 
+
+}
+
+@media ( max-width:767px ) {
+    .landing_section::before{width: 100%;}
+    .landing_section {
+        padding-top: 50px; 
+        padding-bottom: 50px;
+    } 
+    .landing_section h3{font-size: 35px;} 
+    .landing_section h3 br, .landing_section p br{display: none;}
+    .landing_section p{font-size: 15px;}
+    .topmenu .navbar-nav a{font-size: 16px;}
+    .topmenu .navbar-brand{font-size: 18px;}
+
+    .auth_layout .right_box {
+        padding: 40px 15px;
+    } 
+    .login_screen .right_box .title_h3 {
+        font-size: 27px;
+    }
+    .form-group-1 .form-label{font-size: 16px;}
+
+    .left_box{
+        display: none;
+    }
+
+    .auth_layout .right_box {
+        width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        padding: 20px;
+    }
+}
+

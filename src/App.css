@@ -1,0 +1,11 @@
+:root{
+  --blue:#1D1D56;
+  --puertorico:rgba(68, 181, 174, 1);
+  --yellow:rgba(220, 165, 98, 1);
+
+  --inter: 'Inter', sans-serif;
+  --poppins:'Poppins', sans-serif;
+
+}
+body{font-family: var(--inter);}
+h1, h2, h3,h5{font-family: var(--poppins);} 
